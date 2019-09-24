@@ -1,6 +1,9 @@
 # ShortShort
 SS置き場
 
-## 妖怪＆SF
+## yokaiSF
 ケヤキの木とキツネの妖怪が、人類のほとんどが宇宙に移住した後の地球で語り合う話。
-PoleStarと同じ世界線、別の時間軸の短編です。
+PoleStarと同じ世界線、別の時間軸の短編です
+
+### 完成版
+https://note.mu/fe2o3/m/m89569de8858d
